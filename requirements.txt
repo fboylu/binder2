@@ -1,0 +1,7 @@
+tensorflow==1.8.0
+keras==2.1.6
+Pillow==5.0.0
+matplotlib==2.1.2
+toolz==0.9.0
+aiohttp==3.3.2
+tqdm==4.19.5
